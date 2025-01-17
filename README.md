@@ -15,4 +15,7 @@
 <img src="https://s8.uupload.ir/files/homepage_8n1r.png" width="1000" height="516" /> <br><br>
 ### صفحه اجرایی ربات <br>
 <img src="https://s8.uupload.ir/files/runpage_00on.png" width="1000" height="516" /> <br><br>
-`میتونید برای دانلود برنامه از دیسکورد یا تلگرام پیام بدید و برنامه رو بعد از کانفیگ دریافت کنید!`
+`میتونید برای دانلود برنامه از دیسکورد یا تلگرام پیام بدید و برنامه رو بعد از کانفیگ دریافت کنید!` <br>
+## License
+This project is licensed under the Proprietary License. All rights reserved. Unauthorized use, copying, modification, or distribution is prohibited without permission.
+
